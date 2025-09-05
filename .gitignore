@@ -1,0 +1,16 @@
+# Node dependencies
+sms-backend/node_modules/
+sms-frontend/node_modules/
+
+# Build outputs
+backend/dist/
+frontend/build/
+frontend/.next/
+
+# Environment files
+sms-backend/.env
+sms-frontend/.env
+
+# System files
+.DS_Store
+Thumbs.db
